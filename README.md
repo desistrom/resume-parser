@@ -28,7 +28,3 @@ I have create a docker container so that it can work on any system because i am 
 
 ### Ci / CD pipeline 
 Created a complete ci cd pipleine with docker, aws ecs, aws ecr and github actions to automate the workflow of the environment
-
-
-## Blog
-For more detailed information you can visit my blog at [link](https://medium.com/@shavakchauhan27/resume-parser-using-deep-learning-with-roberta-a7426ae226e1)
