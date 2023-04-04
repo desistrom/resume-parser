@@ -23,7 +23,7 @@ I have create a docker container so that it can work on any system because i am 
 * And on this  url [link](http://127.0.0.1:5000) you can upload your resume and then the model will give parsed output after sometime so that you will be able to see important keyword in the resume.
 
 ### Demo Gif of the Application
-![Demo gif of the application](https://github.com/Shavakchauhan/Resume_parser_using_deep_learning/blob/main/demo_gif.gif)
+![Demo gif of the application](demo_gif.gif)
 
 
 ### Ci / CD pipeline 
