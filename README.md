@@ -1,7 +1,7 @@
 # Resume_parser_using_deep_learning
 Resume parser with ner using state of art in deep learning with transformers specifically [roberta](https://arxiv.org/abs/1907.11692).This project is a personal  project and not ready for production use but can decently perform parsing on the resumes and extract the keywords and match it with the best possible entitites which i have defined below.
 
-The link for trained model is [link to model](https://drive.google.com/drive/folders/1yJsfoo9qIZCsiGyGFwDx3sPEYf3bUueI?usp=sharing)
+The link for trained model is [link to model](https://drive.google.com/file/d/1F5bTHs7uMmkTpOU2CN9Wwwzz0QGk6wUQ/view?usp=sharing)
 .I did not added it on github because size was exceeding github size parameter.
 
 There are seven types of entity possible for a given set of words:
